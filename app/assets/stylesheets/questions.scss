@@ -1,0 +1,38 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+ body {
+   background: #F4F4F4;
+ }
+
+ .center {
+  padding: 70px 0;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  text-align: center;
+ }
+
+ #button{
+   color: white;
+   background-color: blue;
+   border-radius: 8px;
+ }
+
+ #You {
+box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 10px;
+margin-bottom: 40px;
+border-left: 6px blue;
+
+}
+
+ #Your_Coach {
+box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px; padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 10px;
+background-color: #FBF46D;
+}
